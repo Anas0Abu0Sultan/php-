@@ -1,0 +1,205 @@
+body{
+    
+    margin: 0px;
+    padding: 0px;
+}
+.nav{
+       display: inline-block;
+        background-image: linear-gradient(to right,#00baff,#00baff);
+        padding: 0px;
+        margin: 0px;
+        height: 80px;
+        width: 100%;
+        
+}
+#ttt{
+    
+font-family: 'Unispace', sans-serif;
+font-size: 44px;
+font-weight: bold;
+margin-top: 20px;
+margin-left: 60px;
+
+}
+
+ a{
+    text_decoration:none;
+    color: black;
+    font-family: Comic sans MS;
+    font-weight: bold;
+    line-height: 80px;
+    padding: 0 25px;
+    display: inline-block;
+    
+}
+
+
+.item{
+    text-decoration: none;
+}
+#a{
+    color: white;
+}
+.ma{
+    font-family: Tahoma;
+}
+#t{
+    font-family: Tahoma;
+   padding: 10px;
+   margin-left: 10px;
+   font-family: Tahoma;
+}
+.im{
+   
+    
+    margin-right:  90px;
+}
+.tb{
+    height: 80px;
+}
+#v{
+    color:#00baff;
+     
+}
+
+.tr{
+    height: 28px;
+}
+.trr{
+    height: 80px;
+    
+}
+.al{
+  text-align: center;
+}
+.all{
+    padding: 10px;
+}
+.imm{
+     text-align:  right ;
+   width:554px;
+   height:630px;
+   margin-right:  90px;
+   margin-bottom: 20px;
+   margin-top: 50px;
+  
+   
+}
+.C6{
+  margin-left: -1%;
+  height: 14px
+}
+.file{
+  margin-left: -6%;
+  
+}
+.C7{
+  margin-left: -3%;
+  height: 14px
+}
+.in1{
+    width: 155px;
+    
+    styleborder-radius: 7px;
+}
+.b1{
+            
+             border-radius: 7px;
+            color: white;
+             background-color :  #198754;
+             height:  22px;
+            width: 200px;
+        }
+        .b2{
+            
+             border-radius: 7px;
+             color: white;
+           background-color:   #dc3545;
+           height:  22px;
+            width: 200px;
+        }
+        .immm{
+     text-align:  right ;
+   width:554px;
+   height:520px;
+   margin-right:  90px;
+   margin-bottom: 20px;
+   margin-top: 50px;
+  
+   
+}
+.q{
+   
+            width: 145px;
+}
+.f{
+    font-size: 15px;
+}
+.images{
+    
+  
+    width:1600px ;
+         height:700px;
+         margin: 30px;
+         box-shadow: 10px 10px 5px 5px grey ;
+         
+}
+    table{
+    @import url('http://fonts.cdnfonts.com/css/unispace-2');
+    font-family: arial, sans-serif;
+    border-collapse:collapse;
+    border: 1px solid black;
+    width: 93%;
+    margin: auto;
+    border-style: hidden;
+    border-radius: 18px;
+    box-shadow: 0 0 0 1px #666;
+    overflow: hidden;
+}
+
+        input{
+            height:  22px;
+            width: 200px;
+        }
+       
+        .b1{
+            
+             border-radius: 7px;
+            color: white;
+             background-color :  #198754;
+        }
+        .b2{
+            
+             border-radius: 7px;
+             color: white;
+           background-color:   #dc3545;
+        }
+        .imm{
+            align-items: right;
+            
+             
+        }
+        .alert {
+            padding: 20px;
+            background-color: #f44336; /* red */
+            color: white;
+            margin-bottom: 15px;
+          }
+          
+          .alert.success {background-color: #4CAF50;} /* green */
+          
+          .closebtn {
+            margin-left: 15px;
+            color: white;
+            font-weight: bold;
+            float: right;
+            font-size: 22px;
+            line-height: 20px;
+            cursor: pointer;
+            transition: 0.3s;
+          }
+          
+          .closebtn:hover {
+            color: black;
+          }
+          
